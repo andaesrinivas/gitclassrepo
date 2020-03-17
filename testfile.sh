@@ -1,2 +1,2 @@
-echo "edited by ec2-user"
+echo "edited by ec2-user latest updated"
 
