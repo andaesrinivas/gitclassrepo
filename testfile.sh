@@ -1,1 +1,1 @@
-echo "This is ec2 user"
+echo "Edited by root uesr"
