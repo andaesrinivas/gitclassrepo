@@ -1,1 +1,2 @@
-echo "This is ec2 user"
+echo "edited by ec2-user"
+
