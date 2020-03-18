@@ -1,5 +1,8 @@
 #!/bin/bash
 echo "Running the script"
-mkdir /tmp/srini
-dir /tmp
+rm -rf /tmp/srini
+mkdir /tmp/vasu
+echo "Testing.......!!" >> /temp/srini/myfile
+dir /tmp/vasu
+cat /tmp/vasu/myfile
 echo "Completed the script"
